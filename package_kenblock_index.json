@@ -22,7 +22,7 @@
           "checksum": "SHA-256:9de42cae7e422567ae0bb45bda6a2445c44c3163e6d90f570600560831b8d3ac",
           "size": "8200964",
           "boards": [
-            {"name": "Kenblock NEO-328P"},
+            {"name": "Kenblock NEO-328P"}
           ],
           "toolsDependencies": [
           ]
