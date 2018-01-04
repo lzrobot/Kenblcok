@@ -109,8 +109,8 @@
 		  },
           "url": "https://github.com/lzrobot/Kenblcok/raw/master/kenblock-1.0.5.zip",
           "archiveFileName": "kenblock-1.0.5.zip",
-          "checksum": "SHA-256:73448d6d37949d29f1304992e0bfbf3d12e6a1b372550b7b505e8a2b29e2a59f",
-          "size": "9289728",
+          "checksum": "SHA-256:43f01c4eb8d9502f74941e685dac486302dff0e3f45f3307711575408d1072d2",
+          "size": "10391832",
           "boards": [
             {"name": "Kenblock NEO-328P"}
           ],
