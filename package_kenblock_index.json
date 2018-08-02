@@ -278,6 +278,24 @@
           ],
           "toolsDependencies": [
           ]
+        },
+		{
+          "name": "Kenblock AVR Boards",
+          "architecture": "avr",
+          "version": "1.1.4",
+          "category": "Contributed",
+		  "help": {
+			"online": "http://www.lzrobot.com/"
+		  },
+          "url": "https://github.com/lzrobot/Kenblcok/raw/master/kenblock-1.1.4.zip",
+          "archiveFileName": "kenblock-1.1.4.zip",
+          "checksum": "SHA-256:1c333be6f6c477ab89ccde641da20a615e8e872c8c46c1ea1fa839176bd90d62",
+          "size": "11213347",
+          "boards": [
+            {"name": "Kenblock NEO-328P"}
+          ],
+          "toolsDependencies": [
+          ]
         }
       ],
       "tools": [ 
